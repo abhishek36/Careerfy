@@ -1,0 +1,89 @@
+body{
+  font-family: serif;
+}
+.myclass{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url('../img/back.jpg'); no repeat;
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+}
+.mybody{
+  margin: auto;
+}
+.dbox{
+  min-height: 150px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: bold;
+  color: white;
+  margin: 5px;
+}
+.altext{
+  align-items: center;
+}
+.imgbox{
+  text-align: center;
+}
+.drow{
+  background-color:#142845;
+  height: auto;
+  align-items: center;
+}
+.bbutton{
+  background-color: #22d8e6;
+}
+.tmid{
+  background-color: #e3faf2;
+}
+.mycard1{
+  width: auto;
+  height: 25vh;
+  align-items: center;
+  background-color: #6298f0;
+}
+.mycard2{
+  width: auto;
+  height: 25vh;
+  align-items: center;
+  background-color: #5c7fb8;
+}
+.mycard3{
+  width: auto;
+  height: 25vh;
+  align-items: center;
+  background-color: #6dc78b;
+}
+.myblog{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 70vh;
+  width:100%;
+  background-size: cover;
+  background-position: center;
+}
+.myclass1{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url('../img/last.jpg'); no repeat;
+  height: 60vh;
+  background-size: cover;
+  background-position: center;
+}
+.mycardlast1{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url('../img/careerfy.jpg'); no repeat;
+  width: auto;
+  height: 30vh;
+  align-items: center;
+  background-color: #5aaac4;
+}
+.mycardlast2{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url('../img/careerfy.jpg'); no repeat;
+  width: auto;
+  height: 70vh;
+  align-items: center;
+  background-color: #5aaac4;
+}
+.myclass3{
+ background-color: gray;
+  width: auto;
+  align-items: bottom;
+  height: 6vh;
+}
